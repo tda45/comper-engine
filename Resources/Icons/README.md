@@ -311,3 +311,5 @@ void UpdateIconColors(const std::string& theme) {
 ---
 
 **Icons Resources** - Night Red Ultra temasının tüm ikon kütüphanesi, vektör tabanlı ve optimize edilmiş.
+
+**ÖNEMLİ** - Görseli Kendiniz Seçebilirsiniz Özgürsünüz Ama Şemadaki Adlar İle Aynı Olmalıdır.

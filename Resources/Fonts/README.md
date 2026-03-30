@@ -317,3 +317,5 @@ void UseVariableFont(const std::string& text, float weight) {
 ---
 
 **Fonts Resources** - Comper Font ailesi, Night Red Ultra teması için optimize edilmiş, profesyonel tipografi.
+
+**ÖNEMLİ** - Fontunuz Kendiniz Seçebilirsiniz Özgürsünüz Ama Şemadaki Ad İle Aynı Olmalıdır

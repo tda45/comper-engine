@@ -233,4 +233,5 @@ Kütüphaneler izole ortamlarda çalışır:
 
 ---
 
-**Not:** Bu ThirdParty kütüphaneleri Comper Engine SDK'nın temelini oluşturur ve doğrudan değiştirilmemelidir. Güncellemeler SDK Manager üzerinden yapılmalıdır.
+**Not:** Bu ThirdParty kütüphaneleri Comper Engine SDK'nın temelini oluşturur ve doğrudan değiştirilmemelidir. Güncellemeler SDK Manager üzerinden yapılmalıdır.Derleme İçin 3.Taraf Klasörlere Gidin,build Klasörü Oluşturun,O Dosyaya Gidin,Mevcut Derleyicinizi Ayarlayın (CMake,MinGW,MSVC),Sonra Derleme Komutunu
+Yazın,BOOM 3.Taraf Uygulamalar Derlendi (NOT:EĞER DOSYA BAŞKA BİR ŞEY İSTERSE Bİ YAPAY ZEKA İLE KONUŞUN DERİM)

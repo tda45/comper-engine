@@ -3,7 +3,7 @@
 
 // Comper Engine - Tarayıcı Motoru İskeleti
 // Low-level C++ Tarayıcı Motoru
-// Developer: Comper Team
+// Developer: tda45
 // License: MIT
 
 #include <string>

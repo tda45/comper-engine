@@ -293,4 +293,4 @@ AssetLibrary::PlayAnimation("neon_glow_pulse.json", target_element);
 
 ---
 
-**Not:** Asset kütüphanesi SDK Manager tarafından otomatik yönetilir. Asset'leri doğrudan değiştirmek yerine SDK Manager API'ını kullanın.
+**Not:** Asset kütüphanesi SDK Manager tarafından otomatik yönetilir. Asset'leri doğrudan değiştirmek yerine SDK Manager API'ını kullanın.Resimleri Size Göre Değiştirebilirsiniz Ama Şemadaki Adlar Sizin Dosyanızla Aynı Ad Olmalıdır

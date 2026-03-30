@@ -6,6 +6,10 @@
 
 Bu klasör, Comper Engine SDK'nin derlenmiş kütüphanelerini ve çalıştırılabilir dosyalarını içerir. Geliştiricilerin SDK'yı derleme sürecini atlamalarını sağlar.
 
+## ÖNEMLİ
+
+Bazı .lib ler Yada .so lar Farklı Adda Olabilir
+
 ## 🏗️ Build Configuration
 
 ### Platform Support

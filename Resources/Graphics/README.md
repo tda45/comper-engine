@@ -223,3 +223,5 @@ NightRedUltra::SetBorderAnimation("pulse");
 ---
 
 **Graphics Resources** - Night Red Ultra temasının tüm grafik kaynakları, 4K kalitesinde ve optimize edilmiş.
+
+**ÖNEMLİ** - Grafik Görsellerini Kendiniz Seçebilirsiniz Özgürsünüz Sadece Şemadaki Adlar Aynı Kalmalıdır.

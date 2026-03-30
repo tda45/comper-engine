@@ -478,3 +478,5 @@ MyTheme/
 ---
 
 **Themes Resources** - Night Red Ultra dahil tüm tema sistemleri, özelleştirilebilir ve genişletilebilir.
+
+**ÖNEMLİ** - Temanızı Kendiniz Seçebilirsiniz Özgürsünüz Ama Şemadaki Ad İle Aynı Olmalıdır
